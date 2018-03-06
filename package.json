@@ -1,0 +1,29 @@
+{
+  "name": "is-connected-node",
+  "version": "1.0.0-beta",
+  "description": "DOM - Living Standard `Node.prototype.isConnected`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaclummys/is-connected-node.git"
+  },
+  "keywords": [
+    "dom",
+    "node",
+    "is-connected",
+    "polyfill",
+    "ponyfill"
+  ],
+  "author": "Isaac Ferreira <zaclummys@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zaclummys/is-connected-node/issues"
+  },
+  "homepage": "https://github.com/zaclummys/is-connected-node#readme",
+  "dependencies": {
+    "get-root-node-polyfill": "^1.0.0"
+  }
+}
